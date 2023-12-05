@@ -1,2 +1,3 @@
 # Feather-Mechanic
-Feather mechanic for a game, where the number of feathers are the number of jumps that the bird can do.
+Feather mechanic made with Unity using C#, for a plataform game.<br>
+The number of feathers are the number of jumps that the bird can do.
